@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://localbiznez.github.io/regency-aba-77949/sitemap.xml
